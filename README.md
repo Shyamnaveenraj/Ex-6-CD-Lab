@@ -1,7 +1,7 @@
 # Ex-6-IMPLEMENTATION-OF-THE-BACK-END-OF-THE-COMPILER-
 IMPLEMENTATION OF THE BACK END OF THE COMPILER 
-# NAME:V.Vignesh
-# REG.NO:212223230241
+# NAME:Shyam naveen raj
+# REG.NO:212221230099
 # Aim :
 To write a program to implement the back end of the compiler.
 # ALGORITHM
@@ -13,8 +13,8 @@ To write a program to implement the back end of the compiler.
 6. Stop the program.
 # PROGRAM
 ```
-Name: V.Vignesh
-REG NO: 21223230241
+Name: Shyam naveen raj
+REG NO: 212221230099
 ```
 ```
 #include <stdio.h>
